@@ -7,14 +7,24 @@ You can save albums to your collection to rate them (1–5 stars), update your l
 
 ## 📸 Screenshots
 
-<h4>🔍 <strong>Search Results</strong></h4>
+#### 🔍 Search Results
+
 ![Search Results](screenshots/search%20result.png)
 
-<h4>💿 <strong>Album Details</strong></h4>
+#### 💿 Album Details
+
 ![Album Details](screenshots/album%20page.png)
 
-<h4>🤖 <strong>AI Recommendations</strong></h4>
+#### 🤖 AI Recommendations
+
 ![AI Recommendations](screenshots/recommendation.png)
+
+
+Important: If these still don't display, the issue is likely the image paths or files in your GitHub repository, not the Markdown syntax.
+
+Send me your GitHub repository URL so I can check the exact filenames and folders.
+
+
 
 ## ✨ Features
 
