@@ -20,12 +20,6 @@ You can save albums to your collection to rate them (1–5 stars), update your l
 ![AI Recommendations](screenshots/recommendation.png)
 
 
-Important: If these still don't display, the issue is likely the image paths or files in your GitHub repository, not the Markdown syntax.
-
-Send me your GitHub repository URL so I can check the exact filenames and folders.
-
-
-
 ## ✨ Features
 
 * **Discover:** Search for albums and artists using the iTunes Search API.
