@@ -3,14 +3,19 @@
 Album Tracker is a React web app for tracking your music listening. It lets you look up albums, preview tracks, and log what you hear in a personal database.
 You can save albums to your collection to rate them (1–5 stars), update your listening status, and write notes. The UI features a persistent mini-player for quick previews and integrates with Deezer for full-album playback. It also gives you personalized album recommendations based on your listening history.
 
-**[Live Demo]([https://album-tracker-neri-clark.vercel.app/])**
+[![Live Demo](https://shields.io)](https://album-tracker-neri-clark.vercel.app/)
 
 
 ## 📸 Screenshots
 
-*(Replace these image links with your actual screenshots)*
+
+<h4>🔍 <strong>Search Results</strong></h4>
 ![Search Results](./screenshots/search%20result.png)
+
+<h4>💿 <strong>Album Details</strong></h4>
 ![Album Details](./screenshots/album%20page.png)
+
+<h4>🤖 <strong>AI Recommendations</strong></h4>
 ![AI Recommendations](./screenshots/recommendation.png)
 
 ## ✨ Features
