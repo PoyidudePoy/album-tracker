@@ -8,9 +8,11 @@ You can save albums to your collection to rate them (1–5 stars), update your l
 
 ## 📸 Screenshots
 
-*(Replace these image links with your actual screenshots)*
+
 ![Search Results](./screenshots/search%20result.png)
+
 ![Album Details](./screenshots/album%20page.png)
+
 ![AI Recommendations](./screenshots/recommendation.png)
 
 ## ✨ Features
