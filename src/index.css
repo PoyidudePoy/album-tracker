@@ -1,14 +1,18 @@
 :root {
-  --ink: #1b1a2e;
-  --surface: #27253f;
-  --raised: #34314f;
-  --text: #f2ede4;
-  --muted: #a9a4bd;
-  --label: #f2b84b;
-  --danger: #ff8a7a;
-  --radius: 10px;
-  --body: "DM Sans", system-ui, sans-serif;
-  --display: "Fraunces", Georgia, serif;
+ 
+  --ink: #140304;         
+  --surface: #2b090d;     
+  --raised: #4a131b;     
+  --text: #fcf4f4;        
+  --muted: #cca3a6;     
+  --label: #ff4a5c;       
+  --danger: #ffa502;      
+  
+  --radius: 12px;         
+  
+  
+  --body: "Outfit", system-ui, sans-serif;
+  --display: "Playfair Display", Georgia, serif;
 }
 *,
 *::before,
